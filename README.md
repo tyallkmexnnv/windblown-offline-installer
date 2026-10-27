@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Windblown" src="https://raw.githubusercontent.com/tyallkmexnnv/windblown-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Windblown
